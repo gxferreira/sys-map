@@ -1,0 +1,1150 @@
+[
+	{
+		"bibtex_key": "Ma2018572",
+		"title": "Eco-Driving Assistance System for a Manual Transmission Bus Based on Machine Learning",
+		"author": "Ma, H. and Xie, H. and Brown, D.",
+		"year": "2018",
+		"document_type": "article",
+		"author_keywords": "decision tree;  driver evaluation;  driving assistance system;  driving style;  Eco-driving",
+		"status": "Accepted",
+		"article": "Eco-Driving Assistance System for a Manual Transmission Bus Based on Machine Learning",
+		"tarefa executada": "predição de consumo de combustível",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"árvore de decisão"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "transporte coletivo",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Nowakowski20181",
+		"title": "Vehicle route planning in e-waste mobile collection on demand supported by artificial intelligence algorithms",
+		"author": "Nowakowski, P. and Szwarc, K. and Boryczka, U.",
+		"year": "2018",
+		"document_type": "article",
+		"author_keywords": "Artificial intelligence;  IT system supporting transportation planning;  Mobile collection of e-waste;  Optimization methods;  Transportation of waste;  Vehicle routing problem with time windows",
+		"status": "Accepted",
+		"article": "Vehicle route planning in e-waste mobile collection on demand supported by artificial intelligence algorithms",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "janelas de tempo",
+		"tecnicas": [
+			"busca tabu",
+			"enxame de abelhas",
+			"recozimento simulado"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "coleta de rejeitos",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Sales2018",
+		"title": "Memetic algorithm for the heterogeneous fleet school bus routing problem",
+		"author": "Sales, L.P.A. and Melo, C.S. and e Bonates, T.O. and Prata, B.A.",
+		"year": "2018",
+		"document_type": "article",
+		"author_keywords": "Combinatorial optimization;  Evolutionary algorithms;  Metaheuristics;  School bus transportation;  Vehicle-routing problems",
+		"status": "Accepted",
+		"article": "Memetic algorithm for the heterogeneous fleet school bus routing problem",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "heterogeneidade",
+		"tecnicas": [
+			"algoritmo genético"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "transporte coletivo",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Belhajem2018168",
+		"title": "Improving low cost sensor based vehicle positioning with Machine Learning",
+		"author": "Belhajem, I. and Ben Maissa, Y. and Tamtaoui, A.",
+		"year": "2018",
+		"document_type": "article",
+		"author_keywords": "Dead Reckoning;  Genetic Algorithm;  Global Positioning System;  Intelligent transportation systems;  Low cost;  Machine Learning;  Neural Networks;  Particle Swarm Optimization;  Smart city;  Support Vector Machines",
+		"status": "Accepted",
+		"article": "Improving low cost sensor based vehicle positioning with Machine Learning",
+		"tarefa executada": "melhoria na localização de veículos",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"redes neurais",
+			"máquinas de vetores de suporte",
+			"filtro de Kalman"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Wen2018220",
+		"title": "Rebalancing shared mobility-on-demand systems: A reinforcement learning approach",
+		"author": "Wen, J. and Zhao, J. and Jaillet, P.",
+		"year": "2018",
+		"document_type": "conference",
+		"author_keywords": "agent-based simulation;  deep Q network;  mobility-on-demand;  rebalancing;  reinforcement learning;  ride-sharing",
+		"status": "Accepted",
+		"article": "Rebalancing shared mobility-on-demand systems: A reinforcement learning approach",
+		"tarefa executada": "otimização de tamanho e distribuição da frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"deep q-network"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "mobilidade sob demanda",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Jafarnejad20181",
+		"title": "Towards a real-time driver identification mechanism based on driving sensing data",
+		"author": "Jafarnejad, S. and Castignani, G. and Engel, T.",
+		"year": "2018",
+		"document_type": "conference",
+		"author_keywords": "driver identification;  driver modeling;  driving behavior;  machine learning;  real-time driver modeling",
+		"status": "Accepted",
+		"article": "Towards a real-time driver identification mechanism based on driving sensing data",
+		"tarefa executada": "identificação de motoristas",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"floresta randômica",
+			"Gradient Boosting",
+			"máquinas de vetores de suporte"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Ziebuhr20181",
+		"title": "A column generation-based heuristic for a green vehicle routing problem with an unlimited heterogeneous fleet",
+		"author": "Ziebuhr, M. and Buer, T. and Kopfer, H.",
+		"year": "2018",
+		"document_type": "conference",
+		"author_keywords": "",
+		"status": "Accepted",
+		"article": "A column generation-based heuristic for a green vehicle routing problem with an unlimited heterogeneous fleet",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "heterogeneidade",
+		"tecnicas": [
+			"geração de colunas"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Meroux2018",
+		"title": "Policies to Maximize Fuel Economy of Plug-In Hybrids in a Rental Fleet",
+		"author": "Meroux, D. and Tal, G.",
+		"year": "2018",
+		"document_type": "article",
+		"author_keywords": "",
+		"status": "Accepted",
+		"article": "Policies to Maximize Fuel Economy of Plug-In Hybrids in a Rental Fleet",
+		"tarefa executada": "predição de consumo de combustível",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"árvore de decisão"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "veículos elétricos",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Yu2018337",
+		"title": "Bus Scheduling Timetable Optimization Based on Hybrid Bus Sizes",
+		"author": "Yu, H. and Ma, H. and Du, H. and Li, X. and Xiao, R. and Du, Y.",
+		"year": "2018",
+		"document_type": "article",
+		"author_keywords": "Bus timetable;  Fleet configuration;  Hybrid sizes;  Load factor",
+		"status": "Accepted",
+		"article": "Bus Scheduling Timetable Optimization Based on Hybrid Bus Sizes",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"algoritmo genético"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "transporte coletivo",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Belhajem2017806",
+		"title": "A robust low cost approach for real time car positioning in a smart city using Extended Kalman Filter and evolutionary machine learning",
+		"author": "Belhajem, I. and Ben Maissa, Y. and Tamtaoui, A.",
+		"year": "2017",
+		"document_type": "conference",
+		"author_keywords": "data fusion;  Dead Reckoning;  Extended Kalman Filter;  Genetic Algorithm;  Global Positioning System;  intelligent transportation systems;  low cost;  neural networks;  smart cities",
+		"status": "Accepted",
+		"article": "A robust low cost approach for real time car positioning in a smart city using Extended Kalman Filter and evolutionary machine learning",
+		"tarefa executada": "melhoria na localização de veículos",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"redes neurais",
+			"algoritmo genético",
+			"filtro de Kalman"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Senthilraja20171",
+		"title": "Avoiding fuel theft in multifleet vehicles using vehicular adhoc network",
+		"author": "Senthilraja, P. and Geetha, B.G.",
+		"year": "2017",
+		"document_type": "article",
+		"author_keywords": "GeoSpray routing and ant colony optimization (ACO) algorithm;  Mobile ad-hoc network (MANET);  Routing;  Vehicular ad-hoc network (VANET)",
+		"status": "Accepted",
+		"article": "Avoiding fuel theft in multifleet vehicles using vehicular adhoc network",
+		"tarefa executada": "comunicação entre veículos",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"colônia de formigas"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "segurança",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Karakoc2017795",
+		"title": "Priority based Vehicle Routing for agile Blood transportation between Donor/Client Sites",
+		"author": "Karakoc, M. and Gunay, M.",
+		"year": "2017",
+		"document_type": "conference",
+		"author_keywords": "Blood transportation;  Donor/Client Sites;  Genetic Algorithms;  Local Search;  Priority;  Vehicle Routing",
+		"status": "Accepted",
+		"article": "Priority based Vehicle Routing for agile Blood transportation between Donor/Client Sites",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "priorização",
+		"tecnicas": [
+			"algoritmo genético",
+			"busca local"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "medicina",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Svensson2017",
+		"title": "Indirect Tire Monitoring System - Machine Learning Approach",
+		"author": "Svensson, O. and Thelin, S. and Byttner, S. and Fan, Y.",
+		"year": "2017",
+		"document_type": "conference",
+		"author_keywords": "",
+		"status": "Accepted",
+		"article": "Indirect Tire Monitoring System - Machine Learning Approach",
+		"tarefa executada": "otimização de uso de componentes veiculares",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"floresta randômica"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Alinaghian20171",
+		"title": "A bi-objective fleet size and mix green inventory routing problem, model and solution method",
+		"author": "Alinaghian, M. and Zamani, M.",
+		"year": "2017",
+		"document_type": "article",
+		"author_keywords": "Fuel consumption;  Multi-objective optimization;  NSGAII;  Pollutant emissions;  Quantum evolutionary algorithm;  The fleet size and mix IRP",
+		"status": "Accepted",
+		"article": "A bi-objective fleet size and mix green inventory routing problem, model and solution method",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "heterogeneidade; inventário",
+		"tecnicas": [
+			"algoritmo evolucionário quantum"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Agrawal20175159",
+		"title": "A bi-criteria evolutionary algorithm for a constrained multi-depot vehicle routing problem",
+		"author": "Agrawal, V. and Lightner, C. and Lightner-Laws, C. and Wagner, N.",
+		"year": "2017",
+		"document_type": "article",
+		"author_keywords": "Bi-criteria genetic algorithm;  Hard and soft time windows;  Multi-depot transportation problem;  Pareto front;  Vehicle routing problem",
+		"status": "Accepted",
+		"article": "A bi-criteria evolutionary algorithm for a constrained multi-depot vehicle routing problem",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "heterogeneidade; janelas de tempo; múltiplos depósitos",
+		"tecnicas": [
+			"algoritmo genético"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Gupta2017288",
+		"title": "A generic framework for multi-criteria decision support in eco-friendly urban logistics systems",
+		"author": "Gupta, A. and Heng, C.K. and Ong, Y.S. and Tan, P.S. and Zhang, A.N.",
+		"year": "2017",
+		"document_type": "article",
+		"author_keywords": "Eco-friendly urban logistics;  Evolutionary algorithms;  Multi-objective optimization;  Vehicle routing problem",
+		"status": "Accepted",
+		"article": "A generic framework for multi-criteria decision support in eco-friendly urban logistics systems",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "heterogeneidade; janelas de tempo; tráfego",
+		"tecnicas": [
+			"algoritmo genético",
+			"djikstra"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Hinz2017",
+		"title": "Detection of distinctions in car fleets based on measured and simulated data",
+		"author": "Hinz, M. and Hienzsch, F. and Bracke, S.",
+		"year": "2017",
+		"document_type": "conference",
+		"author_keywords": "Field data analysis;  Machine algorithms;  On Board Diagnostics;  Optimization of test procedures;  Testing",
+		"status": "Accepted",
+		"article": "Detection of distinctions in car fleets based on measured and simulated data",
+		"tarefa executada": "análise de comportamento de frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"árvore de decisão",
+			"indução de regras",
+			"aprendizado baseado em instâncias"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Kaabachi2017339",
+		"title": "An improved ant colony optimization for green multi-depot vehicle routing problem with time windows",
+		"author": "Kaabachi, I. and Jriji, D. and Krichen, S.",
+		"year": "2017",
+		"document_type": "conference",
+		"author_keywords": "Ant colony optimization;  Green routing problem;  Meta-heuristic;  Multi-depot vehicle routing problem;  Time windows",
+		"status": "Accepted",
+		"article": "An improved ant colony optimization for green multi-depot vehicle routing problem with time windows",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "múltiplos depósitos; janelas de tempo; capacidade do veículo",
+		"tecnicas": [
+			"colônia de formigas",
+			"busca local"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Rezgui2017301",
+		"title": "Application of a memetic algorithm to the fleet size and mix vehicle routing problem with electric modular vehicles",
+		"author": "Rezgui, D. and Chaouachi-Siala, J. and Aggoune-Mtalaa, W. and Bouziri, H.",
+		"year": "2017",
+		"document_type": "conference",
+		"author_keywords": "Electric modular vehicles;  Evolutionary computation;  Genetic algorithm;  Urban logistics;  Vehicle routing problem",
+		"status": "Accepted",
+		"article": "Application of a memetic algorithm to the fleet size and mix vehicle routing problem with electric modular vehicles",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "tamanho da frota; janelas de tempo",
+		"tecnicas": [
+			"algoritmo genético",
+			"busca local"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "veículos elétricos",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Yakıcı2017288",
+		"title": "A heuristic approach for solving a rich min-max vehicle routing problem with mixed fleet and mixed demand",
+		"author": "Yakıcı, E.",
+		"year": "2017",
+		"document_type": "article",
+		"author_keywords": "Ant colony optimization;  Mixed demand;  Mixed fleet;  Vehicle routing",
+		"status": "Accepted",
+		"article": "A heuristic approach for solving a rich min-max vehicle routing problem with mixed fleet and mixed demand",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "agrupamento de pontos; heterogeneidade",
+		"tecnicas": [
+			"colônia de formigas"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Guezouli2017328",
+		"title": "A multi-objective optimization of Multi-depot Fleet Size and Mix Vehicle Routing Problem with time window",
+		"author": "Guezouli, L. and Abdelhamid, S.",
+		"year": "2017",
+		"document_type": "conference",
+		"author_keywords": "",
+		"status": "Accepted",
+		"article": "A multi-objective optimization of Multi-depot Fleet Size and Mix Vehicle Routing Problem with time window",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"algoritmo genético"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Pornsing2017322",
+		"title": "Particle swarm optimization for integrated production-distribution scheduling problem",
+		"author": "Pornsing, C. and Tharawetcharak, P. and Jomthong, P. and Tonglim, T.",
+		"year": "2017",
+		"document_type": "conference",
+		"author_keywords": "Artificial intelligence;  Integrated production-distribution planning problem;  Particle swarm optimization",
+		"status": "Accepted",
+		"article": "Particle swarm optimization for integrated production-distribution scheduling problem",
+		"tarefa executada": "otimização de agendamento e distribuição",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"enxame de partículas"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Belhajem20171",
+		"title": "Improving Vehicle Localization in a Smart City with Low Cost Sensor Networks and Support Vector Machines",
+		"author": "Belhajem, I. and Maissa, Y.B. and Tamtaoui, A.",
+		"year": "2017",
+		"document_type": "article",
+		"author_keywords": "Global positioning system;  Internet of things;  Low cost;  Machine learning;  Smart city;  Wireless sensor network",
+		"status": "Accepted",
+		"article": "Improving Vehicle Localization in a Smart City with Low Cost Sensor Networks and Support Vector Machines",
+		"tarefa executada": "melhoria na localização de veículos",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"máquinas de vetores de suporte",
+			"filtro de Kalman"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Farrokhi-Asl2017239",
+		"title": "Metaheuristics for a bi-objective location-routing-problem in waste collection management",
+		"author": "Farrokhi-Asl, H. and Tavakkoli-Moghaddam, R. and Asgarian, B. and Sangari, E.",
+		"year": "2017",
+		"document_type": "article",
+		"author_keywords": "heterogeneous vehicles;  location routing problem;  Multi objective optimization;  waste collection",
+		"status": "Accepted",
+		"article": "Metaheuristics for a bi-objective location-routing-problem in waste collection management",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "capacidade; heterogeneidade",
+		"tecnicas": [
+			"algoritmo genético",
+			"enxame de partículas"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "coleta de rejeitos",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Bravo2017",
+		"title": "An evolutionary algorithm for the multi-objective pick-up and delivery pollution-routing problem",
+		"author": "Bravo, M. and Rojas, L.P. and Parada, V.",
+		"year": "2017",
+		"document_type": "article",
+		"author_keywords": "Green logistics;  Multi-objective pick-up and delivery problem;  Pollution-routing problem;  Routing carbon footprint",
+		"status": "Accepted",
+		"article": "An evolutionary algorithm for the multi-objective pick-up and delivery pollution-routing problem",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "heterogeneidade;",
+		"tecnicas": [
+			"algoritmo genético",
+			"ε-constraint technique"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Blocho2017124",
+		"title": "LCS-based selective route exchange crossover for the pickup and delivery problem with time windows",
+		"author": "Blocho, M. and Nalepa, J.",
+		"year": "2017",
+		"document_type": "article",
+		"author_keywords": "Crossover;  LCS;  Memetic algorithm;  PDPTW",
+		"status": "Accepted",
+		"article": "LCS-based selective route exchange crossover for the pickup and delivery problem with time windows",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "distância;",
+		"tecnicas": [
+			"algoritmo genético"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Ke2017494",
+		"title": "Reformulation and metaheuristic for the team orienteering arc routing problem",
+		"author": "Ke, L. and Yang, W.",
+		"year": "2017",
+		"document_type": "article",
+		"author_keywords": "Arc routing problem;  Iterated local search;  Metaheuristic;  Team orienteering problem;  Vehicle routing problem",
+		"status": "Accepted",
+		"article": "Reformulation and metaheuristic for the team orienteering arc routing problem",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "arco; orientado a time;",
+		"tecnicas": [
+			"busca local iterada"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Zhou2017355",
+		"title": "Decision support system for green real-life field scheduling problems",
+		"author": "Zhou, Y. and Liret, A. and Liu, J. and Ferreyra, E. and Rana, R. and Kern, M.",
+		"year": "2017",
+		"document_type": "article",
+		"author_keywords": "Green logistic scheduling system;  Heat map;  Metaheuristics comparison;  Speed profile",
+		"status": "Accepted",
+		"article": "Decision support system for green real-life field scheduling problems",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "heterogeneidade; janela de tempo",
+		"tecnicas": [
+			"busca em vizinhança variável",
+			"busca em vizinhança variável reduzida"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Turky2017279",
+		"title": "An iterated local search with guided perturbation for the heterogeneous fleet vehicle routing problem with time windows and three-dimensional loading constraints",
+		"author": "Turky, A. and Moser, I. and Aleti, A.",
+		"year": "2017",
+		"document_type": "article",
+		"author_keywords": "3-Dimensional loading constraints;  Iterated local search;  Perturbation operator;  Time windows;  Vehicle routing problem",
+		"status": "Accepted",
+		"article": "An iterated local search with guided perturbation for the heterogeneous fleet vehicle routing problem with time windows and three-dimensional loading constraints",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"busca local iterada"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "transporte de bens",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "SouzaLima2016320",
+		"title": "A mixed load capacitated rural school bus routing problem with heterogeneous fleet: Algorithms for the Brazilian context",
+		"author": "Souza Lima, F.M. and Pereira, D.S. and Conceição, S.V. and Ramos Nunes, N.T.",
+		"year": "2016",
+		"document_type": "article",
+		"author_keywords": "Capacitated rural school bus routing problem;  Heterogeneous fleet;  Meta-heuristic methods;  Mixed loading;  Multiple schools;  Random Variable Neighborhood Descent",
+		"status": "Accepted",
+		"article": "A mixed load capacitated rural school bus routing problem with heterogeneous fleet: Algorithms for the Brazilian context",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "heterogeneidade; múltiplas cargas; janelas de tempo",
+		"tecnicas": [
+			"busca local iterada",
+			"busca em vizinhança variável"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "transporte coletivo",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Wickramanayake201690",
+		"title": "Fuel consumption prediction of fleet vehicles using Machine Learning: A comparative study",
+		"author": "Wickramanayake, S. and Bandara, D.H.M.N.",
+		"year": "2016",
+		"document_type": "conference",
+		"author_keywords": "artificial neural networks;  fuel economy;  gradient boosting;  predictive model;  random forest",
+		"status": "Accepted",
+		"article": "Fuel consumption prediction of fleet vehicles using Machine Learning: A comparative study",
+		"tarefa executada": "predição de consumo de combustível",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"floresta randômica",
+			"gradient boosting",
+			"redes neurais"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "transporte coletivo",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Shafiee201612",
+		"title": "Agent-based modeling and evolutionary computation for disseminating public advisories about hazardous material emergencies",
+		"author": "Shafiee, M.E. and Berglund, E.Z.",
+		"year": "2016",
+		"document_type": "article",
+		"author_keywords": "Agent-based model;  Complex adaptive system;  Covering tour problem;  Route alert;  Variable-length genetic algorithm;  Vehicle routing for relief problem;  Water contamination events;  Water distribution network",
+		"status": "Accepted",
+		"article": "Agent-based modeling and evolutionary computation for disseminating public advisories about hazardous material emergencies",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"algoritmo genético"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "defesa civil",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Jäger2016457",
+		"title": "An evolutionary algorithm for an agent-based fleet simulation focused on electric vehicles",
+		"author": "Jäger, B. and Hahn, C. and Lienkamp, M.",
+		"year": "2016",
+		"document_type": "conference",
+		"author_keywords": "Charging infrastructure;  Electric vehicle;  Electrification;  Evolutionary computation;  Fleet simulation;  Intelligent vehicles;  Multi-agent systems;  Transportation",
+		"status": "Accepted",
+		"article": "An evolutionary algorithm for an agent-based fleet simulation focused on electric vehicles",
+		"tarefa executada": "simulação de multi-agentes para aplicações de frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"algoritmo genético",
+			"monte carlo"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Calvet2016408",
+		"title": "A simheuristic for the heterogeneous site-dependent asymmetric VRP with stochastic demands",
+		"author": "Calvet, L. and Pagès-Bernaus, A. and Travesset-Baro, O. and Juan, A.A.",
+		"year": "2016",
+		"document_type": "article",
+		"author_keywords": "Heterogeneous VRP;  Metaheuristics;  Simheuristics;  Site-dependent VRP;  Stochastic optimization problems;  Successive approximations method",
+		"status": "Accepted",
+		"article": "A simheuristic for the heterogeneous site-dependent asymmetric VRP with stochastic demands",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "heterogeneidade;",
+		"tecnicas": [
+			"aproximações sucessivas",
+			"simheuristic"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Koç201633",
+		"title": "The fleet size and mix location-routing problem with time windows: Formulations and a heuristic algorithm",
+		"author": "Koç, Ç. and Bektaş, T. and Jabali, O. and Laporte, G.",
+		"year": "2016",
+		"document_type": "article",
+		"author_keywords": "genetic algorithm;  heterogeneous fleet;  location-routing;  mixed integer programming;  time windows",
+		"status": "Accepted",
+		"article": "The fleet size and mix location-routing problem with time windows: Formulations and a heuristic algorithm",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "janelas de tempo; heterogeneidade;",
+		"tecnicas": [
+			"algoritmo genético",
+			"busca em vizinhança de grande porte"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Kinable2016229",
+		"title": "Optimization models for a real-world snow plow routing problem",
+		"author": "Kinable, J. and van Hoeve, W.-J. and Smith, S.F.",
+		"year": "2016",
+		"document_type": "article",
+		"author_keywords": "",
+		"status": "Accepted",
+		"article": "Optimization models for a real-world snow plow routing problem",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"otimizador de programação inteira",
+			"busca de melhoria iterativa"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "limpa-neve",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Bergmeir2014397",
+		"title": "Using balanced random forests on load spectrum data for classifying component failures of a hybrid electric vehicle fleet",
+		"author": "Bergmeir, P. and Nitsche, C. and Nonnast, J. and Bargende, M. and Antony, P. and Keller, U.",
+		"year": "2014",
+		"document_type": "conference",
+		"author_keywords": "",
+		"status": "Accepted",
+		"article": "Using balanced random forests on load spectrum data for classifying component failures of a hybrid electric vehicle fleet",
+		"tarefa executada": "classificação de falhas de componente do veículo",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"floresta randômica"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Hao20143882",
+		"title": "A fleet size and mix vehicle routing problem with quantity discounts for outsourcing",
+		"author": "Hao, Y.-Y. and Tao, S. and Hu, Z.-H.",
+		"year": "2014",
+		"document_type": "article",
+		"author_keywords": "Evolutionary algorithm;  Fleet size and mix vehicle routing problem;  Outsourcing;  Quantity discounts;  Shortest path",
+		"status": "Accepted",
+		"article": "A fleet size and mix vehicle routing problem with quantity discounts for outsourcing",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"algoritmo genético"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Ayadi2014148",
+		"title": "Evolutionary algorithm for a Green vehicle routing problem with multiple trips",
+		"author": "Ayadi, R. and Elidrissi, A.E. and Benadada, Y. and El Hilali Alaoui, A.",
+		"year": "2014",
+		"document_type": "conference",
+		"author_keywords": "CO2 emissions;  Genetic algorithm;  Green logistic;  Multiple trips;  VRP",
+		"status": "Accepted",
+		"article": "Evolutionary algorithm for a Green vehicle routing problem with multiple trips",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"algoritmo genético",
+			"busca local"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Gracia201440",
+		"title": "An application of the vehicle routing problem to biomass transportation",
+		"author": "Gracia, C. and Velázquez-Martí, B. and Estornell, J.",
+		"year": "2014",
+		"document_type": "article",
+		"author_keywords": "Bioenergy;  Biomass supply;  Genetic algorithms;  Logistics;  Optimisation",
+		"status": "Accepted",
+		"article": "An application of the vehicle routing problem to biomass transportation",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "heterogeneidade;",
+		"tecnicas": [
+			"algoritmo genético",
+			"busca local"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "coleta de rejeitos",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Wong2014877",
+		"title": "Ant colony optimization for one-to-many network inventory routing problem",
+		"author": "Wong, L. and Moin, N.H.",
+		"year": "2014",
+		"document_type": "conference",
+		"author_keywords": "Ant colony Optimization;  inventory routing",
+		"status": "Accepted",
+		"article": "Ant colony optimization for one-to-many network inventory routing problem",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "capacidade; heterogeneidade; depósito único",
+		"tecnicas": [
+			"colônia de formigas"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "transporte de bens",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Santos201688",
+		"title": "Towards the integration of electric buses in conventional bus fleets",
+		"author": "Santos, D. and Kokkinogenis, Z. and De Sousa, J.F. and Perrotta, D. and Rossetti, R.J.F.",
+		"year": "2016",
+		"document_type": "conference",
+		"author_keywords": "",
+		"status": "Accepted",
+		"article": "Towards the integration of electric buses in conventional bus fleets",
+		"tarefa executada": "otimização de tamanho e distribuição da frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"algoritmo genético"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "transporte coletivo",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Noufissa2016",
+		"title": "A hybrid ant colony for solving Inventory Routing Problem",
+		"author": "Noufissa, C. and Mohamed, E.M.",
+		"year": "2016",
+		"document_type": "conference",
+		"author_keywords": "Ant Colony Optimization;  fleet;  Inventory Routing Problem",
+		"status": "Accepted",
+		"article": "A hybrid ant colony for solving Inventory Routing Problem",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "capacidade; heterogeneidade; depósito único",
+		"tecnicas": [
+			"colônia de formigas"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Han20162421",
+		"title": "Routing an autonomous taxi with reinforcement learning",
+		"author": "Han, M. and Senellart, P. and Bressan, S. and Wu, H.",
+		"year": "2016",
+		"document_type": "conference",
+		"author_keywords": "",
+		"status": "Accepted",
+		"article": "Routing an autonomous taxi with reinforcement learning",
+		"tarefa executada": "otimização de rotas de navegação em tempo real",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"q-learning"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "transporte executivo",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Wu2016224",
+		"title": "A label based ant colony algorithm for heterogeneous vehicle routing with mixed backhaul",
+		"author": "Wu, W. and Tian, Y. and Jin, T.",
+		"year": "2016",
+		"document_type": "article",
+		"author_keywords": "Ant colony system;  Heterogeneous vehicle;  Label matching;  Mixed delivery and pickup;  Multi-criteria decision",
+		"status": "Accepted",
+		"article": "A label based ant colony algorithm for heterogeneous vehicle routing with mixed backhaul",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "tamanho da frota; heterogeneidade da frota;",
+		"tecnicas": [
+			"colônia de formigas"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "transporte de bens",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "AliAskari2016300",
+		"title": "Vehicle sharing system with fleet sizing and multi-transportation modes under allowable shortages: a hybrid metaheuristic approach",
+		"author": "Ali Askari, E. and Bashiri, M. and Tavakkoli-Moghaddam, R.",
+		"year": "2016",
+		"document_type": "article",
+		"author_keywords": "evolutionary computation;  inventory management;  multi-transportation modes;  sensitivity analysis;  system cost;  Vehicle sharing systems",
+		"status": "Accepted",
+		"article": "Vehicle sharing system with fleet sizing and multi-transportation modes under allowable shortages: a hybrid metaheuristic approach",
+		"tarefa executada": "otimização de distribuição de depósitos",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"algoritmo genético",
+			"otimização por enxame de partículas"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Chai2016176",
+		"title": "A univariate marginal distribution algorithm hybridized with insertion heuristics for the vehicle routing problem with hard time windows",
+		"author": "Chai, H. and He, R.-C. and Ma, C.X. and Dai, C.-J.",
+		"year": "2016",
+		"document_type": "article",
+		"author_keywords": "Estimation of distribution algorithms;  Insertion heuristics;  Probabilistic model;  Traffic engineering;  Univariate marginal distribution algorithm;  Vehicle routing problem with time windows",
+		"status": "Accepted",
+		"article": "A univariate marginal distribution algorithm hybridized with insertion heuristics for the vehicle routing problem with hard time windows",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "janelas de tempo",
+		"tecnicas": [
+			"algoritmos de estimação de distribuição",
+			"heurísticas de inserção"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "transporte de bens",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Lightner-Laws20162",
+		"title": "An evolutionary algorithm approach for the constrained multi-depot vehicle routing problem",
+		"author": "Lightner-Laws, C. and Agrawal, V. and Lightner, C. and Wagner, N.",
+		"year": "2016",
+		"document_type": "article",
+		"author_keywords": "Evolutionary computation;  Genetic algorithms;  Hard/soft time windows;  Multiple depot transportation;  Vehicle routing",
+		"status": "Accepted",
+		"article": "An evolutionary algorithm approach for the constrained multi-depot vehicle routing problem",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "múltiplos depósitos; heterogeneidade da frota",
+		"tecnicas": [
+			"algoritmo genético"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Kavakeb201655",
+		"title": "Evolutionary Fleet Sizing in Static and Uncertain Environments with Shuttle Transportation Tasks-The Case Studies of Container Terminals [Application Notes]",
+		"author": "Kavakeb, S. and Nguyen, T.T. and Yang, Z. and Jenkinson, I.",
+		"year": "2016",
+		"document_type": "article",
+		"author_keywords": "Benchmark testing;  Fleet sizing;  Mathematical model;  Optimization;  Tracking;  Vehicles",
+		"status": "Accepted",
+		"article": "Evolutionary Fleet Sizing in Static and Uncertain Environments with Shuttle Transportation Tasks-The Case Studies of Container Terminals [Application Notes]",
+		"tarefa executada": "otimização de tamanho e distribuição da frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"algoritmo genético"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "transporte de bens",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Harzi2016695",
+		"title": "A decision support system based on hybrid metaheuristic for solving the constrained capacitated vehicle routing problem: The tunisian case",
+		"author": "Harzi, M. and Krichen, S.",
+		"year": "2016",
+		"document_type": "article",
+		"author_keywords": "CVRP;  Decision support systems;  Geographical information system;  Hybrid ILS-VND metaheuristic;  ILS;  VND",
+		"status": "Accepted",
+		"article": "A decision support system based on hybrid metaheuristic for solving the constrained capacitated vehicle routing problem: The tunisian case",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "capacidade",
+		"tecnicas": [
+			"busca local iterada",
+			"busca em vizinhança variável"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Soriano20154965",
+		"title": "Drive Cycle Identification and Energy Demand Estimation for Refuse-Collecting Vehicles",
+		"author": "Soriano, F. and Moreno-Eguilaz, M. and Álvarez-Flórez, J.",
+		"year": "2015",
+		"document_type": "article",
+		"author_keywords": "Algorithm design and analysis;  Batteries;  Engines;  Power demand;  Transient analysis;  Vehicles;  Waste materials",
+		"status": "Accepted",
+		"article": "Drive Cycle Identification and Energy Demand Estimation for Refuse-Collecting Vehicles",
+		"tarefa executada": "predição de consumo de combustível;",
+		"esp_tarefa": "",
+		"tecnicas": [],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "coleta de rejeitos",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Samaras2015129",
+		"title": "A prediction model of passenger demand using AVL and APC data from a bus fleet",
+		"author": "Samaras, P. and Fachantidis, A. and Vlahavas, I. and Tsoumakas, G.",
+		"year": "2015",
+		"document_type": "conference",
+		"author_keywords": "Machine learning;  Passenger demand prediction;  Prediction models;  Public transportation",
+		"status": "Accepted",
+		"article": "A prediction model of passenger demand using AVL and APC data from a bus fleet",
+		"tarefa executada": "predição de demanda de veículo",
+		"esp_tarefa": "passageiros",
+		"tecnicas": [
+			"floresta randômica"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "transporte coletivo",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Frisk2015105",
+		"title": "Treatment of accumulative variables in data-driven prognostics of lead-acid batteries",
+		"author": "Frisk, E. and Krysander, M.",
+		"year": "2015",
+		"document_type": "article",
+		"author_keywords": "Battery prognostics;  Classification;  Machine learning;  Reliability;  Survival analysis",
+		"status": "Accepted",
+		"article": "Treatment of accumulative variables in data-driven prognostics of lead-acid batteries",
+		"tarefa executada": "otimização de uso de componentes veiculares",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"floresta randômica"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Vandael20151795",
+		"title": "Reinforcement Learning of Heuristic EV Fleet Charging in a Day-Ahead Electricity Market",
+		"author": "Vandael, S. and Claessens, B. and Ernst, D. and Holvoet, T. and Deconinck, G.",
+		"year": "2015",
+		"document_type": "article",
+		"author_keywords": "Demand-side management;  Electric vehicles (EVs);  Reinforcement learning (RL);  Stochastic programming (SP)",
+		"status": "Accepted",
+		"article": "Reinforcement Learning of Heuristic EV Fleet Charging in a Day-Ahead Electricity Market",
+		"tarefa executada": "predição de consumo de combustível",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"q-learning",
+			"processo de decisão markov"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "veículos elétricos",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Chen2015901",
+		"title": "Gaussian Process Decentralized Data Fusion and Active Sensing for Spatiotemporal Traffic Modeling and Prediction in Mobility-on-Demand Systems",
+		"author": "Chen, J. and Low, K.H. and Yao, Y. and Jaillet, P.",
+		"year": "2015",
+		"document_type": "article",
+		"author_keywords": "Active learning;  adaptive sampling;  decentralized active sensing;  decentralized/distributed data fusion;  distributed consensus filtering;  environmental sensing and monitoring;  Gaussian process;  log-Gaussian process;  mobility demand prediction;  relational Gaussian process;  spatiotemporal modeling;  traffic flow forecasting;  vehicular sensor network",
+		"status": "Accepted",
+		"article": "Gaussian Process Decentralized Data Fusion and Active Sensing for Spatiotemporal Traffic Modeling and Prediction in Mobility-on-Demand Systems",
+		"tarefa executada": "predição de tráfego",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"fusão de dados",
+			"processo gaussiano"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "mobilidade sob demanda",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Koç201511",
+		"title": "A hybrid evolutionary algorithm for heterogeneous fleet vehicle routing problems with time windows",
+		"author": "Koç, Ç. and Bektaş, T. and Jabali, O. and Laporte, G.",
+		"year": "2015",
+		"document_type": "article",
+		"author_keywords": "Genetic algorithm;  Heterogeneous fleet;  Neighborhood search;  Time windows;  Vehicle routing",
+		"status": "Accepted",
+		"article": "A hybrid evolutionary algorithm for heterogeneous fleet vehicle routing problems with time windows",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "múltiplos depósitos; janelas de tempo;",
+		"tecnicas": [
+			"algoritmo genético",
+			"busca em vizinhança de grande porte"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "KourankBeheshti2015598",
+		"title": "A novel hybrid column generation-metaheuristic approach for the vehicle routing problem with general soft time window",
+		"author": "Kourank Beheshti, A. and Hejazi, S.R.",
+		"year": "2015",
+		"document_type": "article",
+		"author_keywords": "Column generation heuristic;  Electromagnetism algorithm;  Quantum-inspired evolutionary algorithm;  Vehicle routing problem with general soft time window",
+		"status": "Accepted",
+		"article": "A novel hybrid column generation-metaheuristic approach for the vehicle routing problem with general soft time window",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "janelas de tempo",
+		"tecnicas": [
+			"geração de colunas",
+			"meta-heurística"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Ferreira201591",
+		"title": "A decision support system for a waste collection vehicle routing problem",
+		"author": "Ferreira, J.A. and Oliveira, J.A. and Figueiredo, M.",
+		"year": "2015",
+		"document_type": "conference",
+		"author_keywords": "",
+		"status": "Accepted",
+		"article": "A decision support system for a waste collection vehicle routing problem",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "janelas de tempo",
+		"tecnicas": [
+			"algoritmo genético"
+		],
+		"Tem segmento?": "True",
+		"Tipo de Segmento": "coleta de rejeitos",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Ghannadpour201591",
+		"title": "Multi-objective evolutionary method for dynamic vehicle routing and scheduling problem with customers' satisfaction level",
+		"author": "Ghannadpour, S.F. and Hooshfar, M.",
+		"year": "2015",
+		"document_type": "conference",
+		"author_keywords": "Dynamic Request;  Fuzzy Time Windows;  Multi-Objective Optimization;  Vehicle Routing Problem",
+		"status": "Accepted",
+		"article": "Multi-objective evolutionary method for dynamic vehicle routing and scheduling problem with customers' satisfaction level",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"algoritmo genético"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Engelbrecht2015427",
+		"title": "Performance comparison of Dynamic Time Warping (DTW) and a Maximum Likelihood (ML) classifier in measuring driver behavior with smartphones",
+		"author": "Engelbrecht, J. and Booysen, M.J. and Van Rooyen, G.-J. and Bruwer, F.J.",
+		"year": "2015",
+		"document_type": "conference",
+		"author_keywords": "",
+		"status": "Accepted",
+		"article": "Performance comparison of Dynamic Time Warping (DTW) and a Maximum Likelihood (ML) classifier in measuring driver behavior with smartphones",
+		"tarefa executada": "classificação de manobras de condução",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"Classificador de máxima verossimilhança"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "Yıldırım2015105",
+		"title": "An ant colony-based matheuristic approach for solving a class of vehicle routing problems",
+		"author": "Yıldırım, U.M. and Çatay, B.",
+		"year": "2015",
+		"document_type": "article",
+		"author_keywords": "Ant colony optimization;  Matheuristic;  Vehicle routing problem",
+		"status": "Accepted",
+		"article": "An ant colony-based matheuristic approach for solving a class of vehicle routing problems",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "múltiplos depósitos; heterogeneidade;",
+		"tecnicas": [
+			"colônia de formigas"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	},
+	{
+		"bibtex_key": "20173404073184",
+		"title": "A comparison of probabilistic-based optimization approaches for vehicle routing problems",
+		"author": "Santana, Roberto and Sirbiladze, Gia and Ghvaberidze, Bezhan and Matsaberidze, Bidzina",
+		"year": "2017",
+		"document_type": "inproceedings",
+		"author_keywords": "Constrained optimi-zation problems -  Estimation of distribution algorithms -  Integer representation; Optimization approach; Optimization problems; Probabilistic modeling; Probabilistic models; Vehicle Routing Problems",
+		"status": "Accepted",
+		"article": "A comparison of probabilistic-based optimization approaches for vehicle routing problems",
+		"tarefa executada": "otimização de roteamento de frota",
+		"esp_tarefa": "",
+		"tecnicas": [
+			"algoritmos de estimação de distribuição"
+		],
+		"Tem segmento?": "False",
+		"Tipo de Segmento": "",
+		"Referência utilizadas": ""
+	}
+]

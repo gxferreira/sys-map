@@ -1,0 +1,16 @@
+.analise-container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.highcharts-axis-labels {
+    font-size: 18px;
+}
+
+.highcharts-title {
+    font-size: 24px;
+}
+
+.highcharts-data-label {
+    font-size: 1.5em;
+}
